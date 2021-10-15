@@ -1,2 +1,2 @@
 # compchem-Compsci-shared-rep
-Sustainable energy Comp Chemistry Graph Relational Representational Learning analysis Methods to CompSci data
+Abstracting and Re-engineering Sustainable energy Computational Chemistry Graph Relational Representational Learning analysis Methods for Computer Science data.
